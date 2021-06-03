@@ -1,1 +1,1 @@
-# Sorting_Algorithms_Visualized_Tool
+# Sorting_Pixel_Tool
