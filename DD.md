@@ -3,20 +3,26 @@
 Using the bubble sort algorithm to sort the pixels of an image.
 ## Project Structure
 1. Class Dislay.java:
-1.1. Import Java Packages & API:
-- import java.awt.Canvas;
-- import java.awt.Dimension;
-- import java.awt.Graphics;
-- import java.awt.image.BufferStrategy;
-- import java.awt.image.BufferedImage;
-- import java.awt.image.DataBufferInt;
-- import java.util.ArrayList;
-- import java.util.Collections;
-- import javax.swing.JFrame;
-- import sorting.visualizer.graphics.Picture;
-- import sorting.visualizer.sorting.MasterSorter;
-- import sorting.visualizer.sorting.Pixel;
-- import sorting.visualizer.sorting.SortingMethod;
+- Import Java Packages & API:
+ - import java.awt.Canvas;
+ - import java.awt.Dimension;
+ - import java.awt.Graphics;
+ - import java.awt.image.BufferStrategy;
+ - import java.awt.image.BufferedImage;
+ - import java.awt.image.DataBufferInt;
+ - import java.util.ArrayList;
+ - import java.util.Collections;
+ - import javax.swing.JFrame;
+ - import sorting.visualizer.graphics.Picture;
+ - import sorting.visualizer.sorting.MasterSorter;
+ - import sorting.visualizer.sorting.Pixel;
+ - import sorting.visualizer.sorting.SortingMethod;
+- Created method:
+ - Display()
+ - initPixels()
+ - randomizePixels()
+ - start() and stop(): run the threads
+ - @Override public void run()
 
 3. Class Picture.java
 4. Sorting 
