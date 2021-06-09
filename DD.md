@@ -3,8 +3,10 @@
 Using the bubble sort algorithm to sort the pixels of an image.
 ## Project Structure
 1. Class Dislay.java
-2. Class Picture.java
-3. Sorting 
+- Extend class Canvas : to be using to draw stuff to the screen
+- Implement Runnable interface: be drawing on different threads 
+3. Class Picture.java
+4. Sorting 
 - BubbleSort.java
 - MasterSorter.java
 - Pixel.java
