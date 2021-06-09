@@ -45,7 +45,7 @@ Using the bubble sort algorithm to sort the pixels of an image.
 - Create a rectangular area with the height and the width of the picture
 - Randomize the pixels
 - Use the algorithm to sort the picture
-  - Let's take a look to the Bubble sort algorithm
+  - Let's take a look how the Bubble sort algorithm works:
 ![image](https://user-images.githubusercontent.com/85243027/120709314-5f376780-c4c5-11eb-9d0b-f071c50edfe1.png)
 - End program until the Boolean variable running is false, thread stops.
 
