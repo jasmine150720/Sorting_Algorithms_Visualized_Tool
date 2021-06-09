@@ -41,7 +41,7 @@ Using the bubble sort algorithm to sort the pixels of an image.
 - Write down the path to open the image, which will be sorted
 - Boolean variable running turns TRUE, the thread starts.
 - Render method draws stuff to the windown
-- Image class get height and width of image
+- Get height and width of image
 - Create a rectangular area with the height and the width of the picture
 - Randomize the pixels
 - Use the algorithm to sort the picture
