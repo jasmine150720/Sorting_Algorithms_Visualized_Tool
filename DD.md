@@ -2,8 +2,8 @@
 ## Functional Details 
 Using the bubble sort algorithm to sort the pixels of an image.
 ## Project Structure
-1. Class Dislay.java
-1.1 Import Java Packages & API:
+1. Class Dislay.java:
+1.1. Import Java Packages & API:
 - import java.awt.Canvas;
 - import java.awt.Dimension;
 - import java.awt.Graphics;
