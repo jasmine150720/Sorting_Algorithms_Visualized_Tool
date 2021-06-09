@@ -1,5 +1,6 @@
 # Design Document
 ## Functional Details 
+Using the bubble sort algorithm to sort the pixels of an image.
 ## Project Structure
 1. Class Dislay.java
 2. Class Picture.java
